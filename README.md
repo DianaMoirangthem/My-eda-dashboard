@@ -3,7 +3,7 @@
 An interactive exploratory data analysis (EDA) tool built with **Streamlit**. 
 Upload any CSV file and instantly explore it — dynamic filters, auto-detected column types, and a chart builder that lets you generate histograms, bar charts, pie charts, scatter plots, box plots, and correlation heatmaps without writing a single line of code.
 
-🔗 **Live demo:https://github.com/DianaMoirangthem/My-eda-dashboard
+🔗 **Live demo: https://my-eda-dashboard-cqf2vxxwxwkepu8vpxee3e.streamlit.app/
 
 ---
 
